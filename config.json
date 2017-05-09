@@ -1,0 +1,24 @@
+{
+  "channels": {
+    "<your github name>": "<#slack-channel or @slack-name>",
+    "@evalphobia": "#general",
+    "@bsoo": "#random",
+    "@kentokento": "#xxx-kento",
+    "@tamaki0506": "@tama"
+  },
+  "account_map": {
+    "evalphobia": "takuma",
+    "bsoo": "hiroki",
+    "kentokento": "kento",
+    "tamaki0506": "tama"
+  },
+  "icon_map": {
+    "evalphobia": [":beer:", ":ice_cream:", ":hotdog:"],
+    "kentokento": ":smile:",
+    "tamaki0506": ":tamaki:"
+  },
+  "icons": [
+    ":octocat01:", ":octocat02:", ":octocat03:",
+    ":octocat04:", ":octocat05:", ":octocat06"
+  ]
+}
